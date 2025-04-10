@@ -1,3 +1,8 @@
+Package File 
+
+http://192.168.10.200:8091/samd/package_Fab_SAM_index.json
+
+
 # MattairTech SAM D|L|C Core for Arduino
 
 The MattairTech SAM D|L|C Core for Arduino is a fork from arduino/ArduinoCore-samd
